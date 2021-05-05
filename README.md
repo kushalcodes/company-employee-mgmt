@@ -7,7 +7,7 @@
 #### 5.	CRUD functionality (Create / Read / Update / Delete) for two menu items: Companies and Employees.
 #### 6.	Company CRUD managed from UI through forms
 #### 7.	Employees CRUD management through REST API
-
+---
 ### 1. Frontend: JS and JS libraries, Bootstrap, Loading/Paginations
 ### 2.	Backend: PHP CI
     i.	MVC
